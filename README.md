@@ -7,4 +7,4 @@ A way to make a unblocked game site.
 | Name  | Link |
 | ------------- | ------------- |
 | Freenom  | https://www.freenom.com/en/index.html?lang=en  |
-|  Google Sites  | https://sites.google.com/a/stu.oldham.kyschools.us  |
+|  Google Sites  | https://sites.google.com/  |
