@@ -6,5 +6,5 @@ A way to make a unblocked game site.
 
 | Name  | Link |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Freenom  | https://www.freenom.com/en/index.html?lang=en  |
+|  Google Sites  | https://sites.google.com/a/stu.oldham.kyschools.us  |
